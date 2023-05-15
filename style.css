@@ -301,6 +301,15 @@ header #burger-menu {
     flex-wrap: wrap;
 }
 
+.about .title {
+    display: flex;
+    justify-content: center;
+    font-size: 5.5rem;
+    margin: 7rem 0;
+    color: var(--color);
+}
+
+
 .about .image {
     flex: 1 1 30rem;
     height: 50rem;
